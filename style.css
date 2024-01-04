@@ -296,3 +296,36 @@ margin-top: 5px;
 .pages a{
     color: #CCCCCC;
 }
+.user{
+    margin-top:20px;
+    height: 170px;
+    color:#dddddd;
+}
+.user-total{
+    height:150px;
+    border:1px solid lightgray ;
+    border-radius:6px;
+}
+.user-id{
+    
+    padding-top:30px;
+}
+.user-id,.user-id-2,.user-id-sign-in{
+   
+    color:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.sign{
+    text-decoration:none;
+    color:black;
+}
+.user-id-sign-in{
+    height:40px;
+    width:33%;
+    margin-left:425px;
+    background-color:rgb(255, 174, 0);
+    border-radius:8px;
+
+}
